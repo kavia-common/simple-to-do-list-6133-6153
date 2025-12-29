@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-to-do-list-6133-6153/todo_backend"
+}
